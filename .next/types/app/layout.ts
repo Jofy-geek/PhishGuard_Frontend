@@ -1,4 +1,4 @@
-// File: C:\Users\Jofy\Desktop\testing_docker\PhishGuard\frontend\src\app\layout.tsx
+// File: C:\Users\Jofy\Desktop\testing_docker\frontend\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
